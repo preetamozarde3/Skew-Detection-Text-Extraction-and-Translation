@@ -1,0 +1,21 @@
+Created separate lists for the 3 levels of ouput categories. 
+Integrated the word mover's distance into the main function.
+Calculated the word movers distance between each comments/questions and the individual level 3 categories. 
+Extracted the category by finding the index with the least distance.
+Stored the result in the output category list for level 3.
+Wrote a mapping function to find the corresponding level 1 and level 2 output categories and appended these values to the output lists for level 1 and level 2 respectively.
+Created a dictionary consisting of the translated english text, original english text and the ouput categories.
+Tested the code and converted the resulting dictionary into a csv file.
+Hence completed the training for the bootom up approach (level 3 categorization).
+
+Continued to find faculty research awards that could be suitable for our proposal.
+Explored the ugly indians website link sent by you and took a look at there facebook page as well.
+Sent the launch package to their gmail account keeping you in cc.
+
+Had a meeting with Rohit and Anushri to discuss to the following:
+Correcting the skew of the image
+Extraction of text for documents with various formats.
+Translation of the Hindi and Marathi text into English.
+
+Discussed the workflow with Ansuhri and Simran.
+
